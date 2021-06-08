@@ -1,0 +1,6 @@
+Alice,Black,10,10
+Bob,White,2,2
+Carter,Black,30,30
+David,White,4,4
+Eddy,Black,5,5
+Frank,White,6,6

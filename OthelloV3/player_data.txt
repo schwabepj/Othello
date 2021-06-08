@@ -1,0 +1,7 @@
+Carter,30,30,30
+Frank,6,6,6
+Eddy,5,5,5
+David,4,4,4
+Bob,2,2,2
+Alice,1,1,0
+Peter,0,0,1
